@@ -1,4 +1,10 @@
-bsa (20151218-1) UNRELEASED; urgency=low
+bsa (20151218-2) unstable; urgency=low
+
+  * Added support for Jessie
+
+ -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Mon, 17 Apr 2017 23:23:23 +0900
+
+bsa (20151218-1) unstable; urgency=low
 
   * Initial release for BSA 20151218
 
